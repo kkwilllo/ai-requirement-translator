@@ -1,15 +1,15 @@
-# AI Code Translator
+# AI Requirement Translator
 
 Use AI to translate code from one language to another.
 
-![AI Code Translator](./public/screenshot.png)
+![AI Requirement Translator](./public/screenshot.png)
 
 ## Running Locally
 
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+git clone https://github.com/kkwilllo/ai-requirement-translator.git
 ```
 
 **2. Install Dependencies**
@@ -24,6 +24,3 @@ npm i
 npm run dev
 ```
 
-## Contact
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
